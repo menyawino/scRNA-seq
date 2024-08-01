@@ -10,6 +10,7 @@ RNA sequencing is an approach to detect and quantify RNA molecules in a biologic
 
 ## References
 
+- Gajria, D., & Chandarlapaty, S. (2011). HER2-amplified breast cancer: mechanisms of trastuzumab resistance and novel targeted therapies. Expert review of anticancer therapy, 11(2), 263–275. https://doi.org/10.1586/era.10.226
 - Haque, A., Engel, J., Teichmann, S.A. et al. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications. Genome Med 9, 75 (2017). https://doi.org/10.1186/s13073-017-0467-4
 - Kazazi-Hyseni F, Beijnen JH, Schellens JH. Bevacizumab. Oncologist. 2010;15(8):819-25. doi: 10.1634/theoncologist.2009-0317. Epub 2010 Aug 5. PMID: 20688807; PMCID: PMC3228024.
 - Kinker, G.S., Greenwald, A.C., Tal, R. et al. Pan-cancer single-cell RNA-seq identifies recurring programs of cellular heterogeneity. Nat Genet 52, 1208–1218 (2020). https://doi.org/10.1038/s41588-020-00726-6
